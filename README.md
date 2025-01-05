@@ -16,6 +16,7 @@ PROJECTS
       - Applied data preprocessing techniques (outlier detection, missing value imputation) and statistical analysis (t-tests) to a large airline customer dataset.  Built and compared multiple machine learning models in R to predict customer satisfaction and identify key influencing factors.
 
 3.	Graduate in Data Science projects:
+
 a.	Computational Statistics
 - Applied data preprocessing techniques and feature engineering to clean and structure a large dataset of 129K for predictive modeling. Leveraged logistic regression and statistical tests to analyze airline customer satisfaction, achieving an accuracy of 83.4% and deriving insights for targeted marketing strategies.
 
