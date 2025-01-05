@@ -2,10 +2,13 @@
 
 ## Education
 - _MS. Data Science_
+
   **Kent State University** (_May 2025_)
 - _MSc. Applied Statistics_
+
   **Hindi Mahavidyalaya College** (_October 2022_)
 - _BSc. Mathematics, Statistics, Computer Science_
+
   **St. Francis College for Women** (_September 2020_)
 
 ## Projects
