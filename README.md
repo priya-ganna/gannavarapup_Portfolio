@@ -1,9 +1,12 @@
 # Data Science Student
 
 ## Education
-- MS. Data Science | Kent State University (_May 2025_)
-- MSc. Applied Statistics | Hindi Mahavidyalaya College (_October 2022_)
-- BSc. Mathematics, Statistics, Computer Science | St. Francis College for Women (_September 2020_)
+- _MS. Data Science_
+  **Kent State University** (_May 2025_)
+- _MSc. Applied Statistics_
+  **Hindi Mahavidyalaya College** (_October 2022_)
+- _BSc. Mathematics, Statistics, Computer Science_
+  **St. Francis College for Women** (_September 2020_)
 
 ## Projects
 1.	_A Survey on Consumer Perspective Towards Environmental Friendly Products:_ Utilized statistical tools, including SPSS and chi-square tests, to assess consumer attitudes toward eco-friendly products among 150 respondents. Gained proficiency in primary data collection, descriptive analysis, and hypothesis testing to draw insights about sustainable product adoption and awareness levels across demographics.
