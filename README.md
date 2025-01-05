@@ -1,4 +1,4 @@
-# Priyanka Gannavarapu
+# Data Science Student
 
 ## Education
 - MS. Data Science | Kent State University (_May 2025_)
