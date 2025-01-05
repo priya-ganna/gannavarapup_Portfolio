@@ -9,7 +9,7 @@
 PROJECTS
 1.	Undergraduate project
 - A Survey on Consumer Perspective Towards Environmental Friendly Products
-    - Utilized statistical tools, including SPSS and chi-square tests, to assess consumer attitudes toward eco-friendly products among 150 respondents. Gained proficiency in primary data collection, descriptive analysis, and hypothesis testing to draw insights about sustainable product adoption and awareness levels across demographics.
+      Utilized statistical tools, including SPSS and chi-square tests, to assess consumer attitudes toward eco-friendly products among 150 respondents. Gained proficiency in primary data collection, descriptive analysis, and hypothesis testing to draw insights about sustainable product adoption and awareness levels across demographics.
 
 2.	Graduate in Applied Statistics project
 - Predicting Prospective Customer’s Satisfaction on Airlines
